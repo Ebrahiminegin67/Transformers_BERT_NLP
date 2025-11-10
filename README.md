@@ -22,3 +22,9 @@ The lab introduces the workflow of leveraging **pre-trained BERT embeddings**, *
 - **Matplotlib**, **scikit-learn**
 
 ---
+---
+
+##  Author
+**Negin Ebrahimi**
+
+---
